@@ -34,9 +34,15 @@
 
 
 src\app\Config\App.php
+
 src\app\Config\Routes.php
+
 src\app\Controllers\Home.php
+
 src\app\Controllers\Comments.php
+
 src\app\Database\Migrations\2026-10-15-000001_CreateComments.php
+
 src\app\Models\CommentModel.php
+
 src\app\Views\comments\index.php
